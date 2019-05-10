@@ -1,7 +1,7 @@
 ## Click Counter
 A simple app to demo React TDD
 
-[View live demo](http://ignaciovillamar.com/tdd-click-counter/)
+[View live demo](https://www.villamar.io/tdd-click-counter/)
 
 *	Setup a simple React app with [Jest](https://jestjs.io/docs/en/api) and [Enzyme](https://airbnb.io/enzyme/docs/api/)
 *	Used Enzyme’s shallow() function to render a component
